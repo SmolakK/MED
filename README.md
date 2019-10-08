@@ -4,3 +4,5 @@ Metody eksploracji danych - materiały, wykłady, ćwiczenia - studia magistersk
 Wykłado-ćwiczenia (kliknij aby pobrać)
 
 <a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia1/Wykladocwiczenia1.rar"> Wyklado-cwiczenia 1 </a>
+
+<a href = "https://github.com/SmolakK/MED/raw/master/Repetytorium%20Python.rar"> Wyklado-cwiczenia 2 </a>
