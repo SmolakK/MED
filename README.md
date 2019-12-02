@@ -12,3 +12,5 @@ Wykłado-ćwiczenia (kliknij aby pobrać)
 <a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia4.rar"> Wyklado-cwiczenia 4 </a>
 
 <a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia5.rar"> Wyklado-cwiczenia 5 </a>
+
+<a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia6/Wykladocwiczenia6.rar"? Wyklado-cwiczenia 6 </a>
