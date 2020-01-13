@@ -18,3 +18,5 @@ Wykłado-ćwiczenia (kliknij aby pobrać)
 <a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia7.zip"> Wyklado-cwiczenia 7 </a>
 
 <a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia%208.zip"> Wyklado-cwiczenia 8 </a>
+
+<a href = "https://github.com/SmolakK/MED/raw/master/Wykladocwiczenia9.zip"> Wyklado-cwiczenia 9 </a>
